@@ -1,0 +1,11 @@
+timm
+pandas
+numpy
+scikit-learn
+pillow
+transformers
+kagglehub
+fairlearn
+tqdm
+optuna
+openpyxl
